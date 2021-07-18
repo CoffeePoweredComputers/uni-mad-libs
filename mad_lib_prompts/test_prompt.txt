@@ -1,0 +1,1 @@
+This is a/an (Adjective) test of my (Adjective) Mad-Libs Python game!
